@@ -30,3 +30,8 @@ td {
 .centerCell {
     text-align: center;
 }
+
+p {
+    text-decoration: underline;
+    color: #900;
+}
